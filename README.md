@@ -1,7 +1,6 @@
 # Documentación para wp-clean.sh
 
-![Kiüve Agency Logo](https://cdn.kiuve.com/img/kiuve-blanco.svg)
-
+<img src="https://cdn.kiuve.com/img/kiuve-blanco.svg" alt="Kiüve Agency Logo" width="200" />
 ---
 
 ## Descripción
