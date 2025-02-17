@@ -1,4 +1,3 @@
-```markdown
 # Documentación para wp-clean.sh
 
 ![Kiüve Agency Logo](https://cdn.kiuve.com/img/kiuve-blanco.svg)
@@ -103,4 +102,3 @@ Este script fue implementado por **Kiüve Agency** en respuesta a la necesidad d
 Para más información, consulta [www.kiuve.com](https://www.kiuve.com) o contacta a **contacto@kiuve.com**.
 
 **Creado por Kiüve Agency**
-```
